@@ -8,7 +8,7 @@ I am going through this book to learn the Gremlin language for graph queries and
 
 ## How to use
 ```
-docker pull srasul/gremlin-console-air-routes-data
+docker pull srasul/gremlin-console-air-routes-data:latest
 docker run -it srasul/gremlin-console-air-routes-data:latest
 ```
 
