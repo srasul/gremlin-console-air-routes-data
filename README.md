@@ -1,4 +1,4 @@
-# gremlin-console-airport-data
+# gremlin-console-air-routes-data
 Gremlin console with pre-loaded Air-Routes data (graph) from [Kelvin R. Lawrence's most excellent online book](http://kelvinlawrence.net/book/Gremlin-Graph-Guide.html).
 
 ## Wait, what?
